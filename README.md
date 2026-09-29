@@ -6,7 +6,7 @@ I am a FinTech with Data Analytics student at the University of Westminster, dev
 
 This portfolio contains practical projects and supporting evidence demonstrating my development in Python, Pandas, SQL, Microsoft Excel, Java and related areas of financial technology and data analytics.
 
----
+
 
 Projects
 
@@ -18,7 +18,7 @@ An end-to-end financial data project involving the preparation, cleaning and ana
 
 The project demonstrates identifying and handling data quality issues, transforming raw data into a structured format, calculating financial metrics and preparing data for further SQL and reporting work.
 
-Skills demonstrated:**
+Skills demonstrated:
 - Python
 - Pandas
 - Data cleaning
@@ -137,7 +137,7 @@ Supporting certifications and additional learning relating to financial technolo
 
 ➡️ [View Certifications](./07-certifications/)
 
----
+
 
  Technical Skills
 
